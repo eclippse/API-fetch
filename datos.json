@@ -1,0 +1,12 @@
+[
+    {
+        "nombre" : "Yupis",
+        "precio" : 1000,
+        "tipo"   : "Chitos"
+    },
+    {
+        "nombre" : "Big Cola",
+        "precio" : 1100,
+        "tipo"   : "500 ml (Personal)"
+    }
+]
